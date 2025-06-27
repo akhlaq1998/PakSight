@@ -1,0 +1,5 @@
+
+{
+  "name": "PakSight - Foreign Media Intelligence",
+  "description": "An AI-powered web application for diplomats, policymakers, and media analysts to gain insights from foreign media coverage. This MVP version provides a dashboard summarizing mentions, sentiment, top topics, and example articles related to a target country, along with an AI assistant for specific queries."
+}
